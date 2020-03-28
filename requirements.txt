@@ -115,7 +115,7 @@ opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
 packaging==19.1
 pandas==0.25.3
-paramiko==2.4.0
+paramiko==2.4.2
 passlib==1.7.1
 Paste==3.2.3
 PasteDeploy==2.0.1
