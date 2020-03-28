@@ -171,7 +171,7 @@ python-pam==1.8.4
 python-snappy==0.5.3
 PyTrie==0.2
 pytz==2018.5
-PyYAML==3.12
+PyYAML==5.1
 Quamash==0.6.1
 reportbug==7.5.0
 repoze.lru==0.7
