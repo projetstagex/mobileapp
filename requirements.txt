@@ -93,7 +93,7 @@ kiwisolver==1.0.1
 krakenio==0.0.2
 ldap3==2.5.1
 ldapdomaindump==0.9.1
-lxml==4.2.5
+lxml==4.6.2
 lz4==3.0.2+dfsg
 Mako==1.0.7
 MarkupSafe==1.0
