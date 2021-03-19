@@ -120,7 +120,7 @@ passlib==1.7.1
 Paste==3.2.3
 PasteDeploy==2.0.1
 patator==0.7
-Pillow==7.0.0
+Pillow==8.1.1
 plaster==1.0
 plaster-pastedeploy==0.5
 playsound==1.2.2
