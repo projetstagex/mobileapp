@@ -86,7 +86,7 @@ incremental==16.10.1
 IPy==0.83
 iso8601==0.1.11
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 kaitaistruct==0.8
 kiwisolver==1.0.1
