@@ -81,7 +81,7 @@ hyperlink==19.0.0
 icalendar==4.0.0
 idna==2.8
 image==1.5.28
-impacket==0.9.20
+impacket==0.9.23
 incremental==16.10.1
 IPy==0.83
 iso8601==0.1.11
