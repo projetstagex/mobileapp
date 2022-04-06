@@ -204,7 +204,7 @@ tld==0.9.1
 tornado==5.1.1
 tqdm==4.30.0
 translationstring==1.3
-Twisted==18.9.0
+Twisted==22.2.0
 txaio==2.10.0
 tzlocal==1.5.1
 u-msgpack-python==2.1
