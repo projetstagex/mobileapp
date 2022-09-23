@@ -127,7 +127,7 @@ playsound==1.2.2
 pluginbase==0.7
 ply==3.11
 promise==2.0.1
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg2==2.7.5
 psycopg2-binary==2.8.4
 py-ubjson==0.14.0
